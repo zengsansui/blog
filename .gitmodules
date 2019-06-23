@@ -1,0 +1,6 @@
+[submodule "zengsansui.github.io"]
+	path = zengsansui.github.io
+	url = git@github.com:zengsansui/zengsansui.github.io.git
+[submodule "themes/AllinOne"]
+	path = themes/AllinOne
+	url = https://github.com/orianna-zzo/AllinOne
