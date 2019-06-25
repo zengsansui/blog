@@ -4,7 +4,7 @@ cd %BASE_DIR%
 
 cd ./zengsansui.github.io
 rmdir /s /q about
-rmdir /s /q blog
+rmdir /s /q posts
 rmdir /s /q categories
 rmdir /s /q css
 rmdir /s /q fonts
