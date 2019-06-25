@@ -7,7 +7,7 @@ Tags:
 Categories:
 - Hugo
 toc: true
-img: "img/blog/hugo-logo-wide.svg"
+img: "images/blog/hugo-logo-wide.svg"
 ---
 
 使用Hugo生成静态网页， 并使用github托管<!--more-->
