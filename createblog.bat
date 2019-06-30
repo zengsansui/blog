@@ -16,6 +16,8 @@ rmdir /s /q tags
 del *.html
 del *.xml
 
+git checkout master
+
 cd ../
 hugo -D
 
